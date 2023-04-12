@@ -1,0 +1,15 @@
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\bin\Debug\net6.0\InClass-MoreReview.exe
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\bin\Debug\net6.0\InClass-MoreReview.deps.json
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\bin\Debug\net6.0\InClass-MoreReview.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\bin\Debug\net6.0\InClass-MoreReview.dll
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\bin\Debug\net6.0\InClass-MoreReview.pdb
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.dll
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\refint\InClass-MoreReview.dll
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.pdb
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\InClass-MoreReview.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-MoreReview\InClass-MoreReview\obj\Debug\net6.0\ref\InClass-MoreReview.dll
